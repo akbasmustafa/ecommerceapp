@@ -1,3 +1,2 @@
-start node server\src\server.js
-cd client
-start npm start
+cd server
+start npm run startAll
